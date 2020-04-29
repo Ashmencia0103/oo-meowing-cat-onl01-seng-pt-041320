@@ -12,4 +12,3 @@ maru.name = "Maru"
 maru.name
 
 maru.meow
-
